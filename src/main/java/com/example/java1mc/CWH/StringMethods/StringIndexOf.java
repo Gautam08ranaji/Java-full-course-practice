@@ -1,4 +1,4 @@
-package com.example.java1mc.CWH;
+package com.example.java1mc.CWH.StringMethods;
 
 public class StringIndexOf {
     public static void main(String[] args) {
