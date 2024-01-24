@@ -17,6 +17,7 @@ public class Check {
         int rollNo = sc.nextInt();
 
         System.out.println("enter address");
+        sc.nextLine();
         String address = sc.nextLine();
 
         System.out.println("Name is :"+name);
