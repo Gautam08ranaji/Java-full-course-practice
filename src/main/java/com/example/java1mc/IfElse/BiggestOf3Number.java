@@ -19,5 +19,7 @@ public class BiggestOf3Number {
         }else {
             System.out.println("all are equal");
         }
+
+
     }
 }

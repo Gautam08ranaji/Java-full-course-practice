@@ -3,11 +3,8 @@ import java.util.Scanner;
 public class Prog {
     public static void main(String[] args) {
 
-        int age = 28;
+//        System.out.println(10.2>10.2f);
 
-        if (age >= 18) {
-            int x = 100;
-        }
-//        System.out.println(x);
+        System.out.println(2);
     }
 }
