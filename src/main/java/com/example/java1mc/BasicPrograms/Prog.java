@@ -3,8 +3,15 @@ import java.util.Scanner;
 public class Prog {
     public static void main(String[] args) {
 
-//        System.out.println(10.2>10.2f);
+        for (int i = 1; i <=5 ; i++) {
+            for (int j = 1; j <=i ; j++) {
 
-        System.out.println(2);
+                System.out.print(" ");
+            }
+            for (int j = 5; j >=i ; j--) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
     }
 }
