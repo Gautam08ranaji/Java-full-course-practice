@@ -4,5 +4,5 @@ module com.example.java1mc {
 
 
     opens com.example.java1mc to javafx.fxml;
-    exports com.example.java1mc;
+//    exports com.example.java1mc;
 }
